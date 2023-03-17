@@ -1,0 +1,136 @@
+
+.logo-img{
+    width: 40px;
+    height:40px;
+    margin-left:10px;
+}
+
+.navbar-nav li{
+    padding-left:30px;
+    padding-right:30px;
+    font-size: large;
+    
+  }
+
+body{
+    margin: 0;
+}
+
+
+
+/* top section */
+
+
+.main-heading{
+    color: brown;
+    font-size:50px;
+    text-align: center;
+    font-style: italic;
+    margin: 20px 0 50px;
+}
+
+
+#top a{
+
+    text-decoration: none;
+
+}
+
+
+.grosseries-img{
+    margin-top:50px;
+    width:50%;
+    align-content:center;
+}
+
+
+#our-services,#footer{
+    background-color:#0E8388;
+    padding: 2%;
+}
+
+
+.services{
+    text-align: center;
+    padding:5%;
+    font-size: larger;
+    margin:10px 0;
+    color: white;
+    
+
+}
+
+.features-container:hover{
+    
+    animation-play-state: paused;
+
+}
+    
+
+.lap-img{
+    width:85%;
+}
+
+
+
+/* sign up page  */
+
+
+input{
+    padding:1% 10% 1% 1%;
+}
+.sign-up,.login{
+    text-align: center;
+    border-radius:50px;
+    margin: 70px 500px 0 ;
+    background-color: white;
+}
+
+.Logo{
+    width: 150px;
+    height: 150px;
+    margin: 30px 0;
+}
+
+.slButtons{
+    padding:1% 12%;
+}
+
+fieldset{
+    border:2px solid powderblue;
+}
+
+
+.forget-pass{
+    text-decoration:none;
+}
+
+
+.electronics-page{
+    background-image:url('/images/Electronics-page-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.groceries-page{
+    background-image:url('/images/groceries-page-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.clothes-page{
+    background-image:url('/images/clothes-page-background.jpg');
+    
+}
+
+
+#footer p{
+
+    text-align: center;
+    color:white;
+    font-size: large;
+
+}
